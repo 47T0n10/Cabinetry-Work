@@ -1,0 +1,13 @@
+# Git ignore for Capital Cabinetry
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# Portfolio
+portfolio/original/
+portfolio/web-optimized/
+
+# AI context
+.gemini/
+scripts/__pycache__/
